@@ -1,0 +1,33 @@
+{
+  "_base": "https://raw.githubusercontent.com/glowku/banksound/main/",
+  "bd": {
+    "120": "Basslines/120bpm/",
+    "125": "Basslines/125bpm/",
+    "128": "Basslines/128bpm/",
+    "132": "Basslines/132bpm/"
+  },
+  "bassfx": {
+    "120": "Basslines FX/120bpm/",
+    "125": "Basslines FX/125bpm/",
+    "128": "Basslines FX/128bpm/",
+    "132": "Basslines FX/132bpm/"
+  },
+  "arp": {
+    "120": "High Arps/120bpm/",
+    "125": "High Arps/125bpm/",
+    "128": "High Arps/128bpm/",
+    "132": "High Arps/132bpm/"
+  },
+  "sweep": {
+    "120": "One Note Sweeps/120bpm/",
+    "125": "One Note Sweeps/125bpm/",
+    "128": "One Note Sweeps/128bpm/",
+    "132": "One Note Sweeps/132bpm/"
+  },
+  "sweepfx": {
+    "120": "One Note Sweeps FX/120bpm/",
+    "125": "One Note Sweeps FX/125bpm/",
+    "128": "One Note Sweeps FX/128bpm/",
+    "132": "One Note Sweeps FX/132bpm/"
+  }
+}

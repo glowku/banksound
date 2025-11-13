@@ -1,15 +1,15 @@
 {
-  "_base": "https://raw.githubusercontent.com/glowku/banksound/main/",
-  "bd_120": "sample/Basslines/120bpm/",
-  "bd_125": "sample/Basslines/125bpm/",
-  "bd_128": "sample/Basslines/128bpm/",
-  "bd_132": "sample/Basslines/132bpm/",
-  "arp_120": "sample/High Arps/120bpm/",
-  "arp_125": "sample/High Arps/125bpm/",
-  "arp_128": "sample/High Arps/128bpm/",
-  "arp_132": "sample/High Arps/132bpm/",
-  "sweep_120": "sample/One Note Sweeps/120bpm/",
-  "sweep_125": "sample/One Note Sweeps/125bpm/",
-  "sweep_128": "sample/One Note Sweeps/128bpm/",
-  "sweep_132": "sample/One Note Sweeps/132bpm/"
+  "_base": "https://raw.githubusercontent.com/glowku/banksound/main/sample/",
+  "bd_128": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "bd_125": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "bd_120": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "bd_132": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "arp_128": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "arp_125": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "arp_120": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "arp_132": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "sweep_128": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "sweep_125": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "sweep_120": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"],
+  "sweep_132": ["0.wav", "1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav", "7.wav", "8.wav", "9.wav", "10.wav", "11.wav", "12.wav", "13.wav"]
 }
